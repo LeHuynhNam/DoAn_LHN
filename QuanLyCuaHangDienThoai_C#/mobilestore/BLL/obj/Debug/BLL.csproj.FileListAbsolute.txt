@@ -1,0 +1,12 @@
+E:\DA_PTH\C#MobileStore\mobilestore\BLL\bin\Debug\BLL.dll
+E:\DA_PTH\C#MobileStore\mobilestore\BLL\bin\Debug\BLL.pdb
+E:\DA_PTH\C#MobileStore\mobilestore\BLL\obj\Debug\BLL.csproj.AssemblyReference.cache
+E:\DA_PTH\C#MobileStore\mobilestore\BLL\obj\Debug\BLL.csproj.CoreCompileInputs.cache
+E:\DA_PTH\C#MobileStore\mobilestore\BLL\obj\Debug\BLL.dll
+E:\DA_PTH\C#MobileStore\mobilestore\BLL\obj\Debug\BLL.pdb
+E:\DA_PTH\C#MobileStore\mobilestore\BLL\bin\Debug\DAL.dll
+E:\DA_PTH\C#MobileStore\mobilestore\BLL\bin\Debug\DTO.dll
+E:\DA_PTH\C#MobileStore\mobilestore\BLL\bin\Debug\DAL.pdb
+E:\DA_PTH\C#MobileStore\mobilestore\BLL\bin\Debug\DTO.pdb
+E:\DA_PTH\C#MobileStore\mobilestore\BLL\bin\Debug\DTO.dll.config
+E:\DA_PTH\C#MobileStore\mobilestore\BLL\obj\Debug\BLL.csproj.CopyComplete

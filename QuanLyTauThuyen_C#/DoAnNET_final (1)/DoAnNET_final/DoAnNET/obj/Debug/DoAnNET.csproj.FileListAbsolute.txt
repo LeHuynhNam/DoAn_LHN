@@ -1,0 +1,168 @@
+\\mac\home\documents\visual studio 2013\Projects\DoAnNET\DoAnNET\bin\Debug\DoAnNET.exe.config
+\\Mac\Home\Documents\Visual Studio 2013\Projects\DoAnNET\DoAnNET\bin\Debug\DoAnNET.exe
+\\Mac\Home\Documents\Visual Studio 2013\Projects\DoAnNET\DoAnNET\bin\Debug\DoAnNET.pdb
+\\Mac\Home\Documents\Visual Studio 2013\Projects\DoAnNET\DoAnNET\obj\Debug\DoAnNET.LoginForm.resources
+\\Mac\Home\Documents\Visual Studio 2013\Projects\DoAnNET\DoAnNET\obj\Debug\DoAnNET.MDIForm.resources
+\\Mac\Home\Documents\Visual Studio 2013\Projects\DoAnNET\DoAnNET\obj\Debug\DoAnNET.Properties.Resources.resources
+\\Mac\Home\Documents\Visual Studio 2013\Projects\DoAnNET\DoAnNET\obj\Debug\DoAnNET.csproj.GenerateResource.Cache
+\\Mac\Home\Documents\Visual Studio 2013\Projects\DoAnNET\DoAnNET\obj\Debug\DoAnNET.exe
+\\Mac\Home\Documents\Visual Studio 2013\Projects\DoAnNET\DoAnNET\obj\Debug\DoAnNET.pdb
+\\Mac\Home\Documents\Visual Studio 2013\Projects\DoAnNET\DoAnNET\obj\Debug\DoAnNET.frmControl.resources
+\\Mac\Home\Documents\Visual Studio 2013\Projects\DoAnNET\DoAnNET\obj\Debug\DoAnNET.frmtest.resources
+\\Mac\Home\Documents\Visual Studio 2013\Projects\DoAnNET\DoAnNET\obj\Debug\DoAnNET.frmAddTV.resources
+\\Mac\Home\Documents\Visual Studio 2013\Projects\DoAnNET\DoAnNET\obj\Debug\DoAnNET.csprojResolveAssemblyReference.cache
+\\Mac\Home\Desktop\DoAnNET\DoAnNET\bin\Debug\DoAnNET.exe.config
+\\Mac\Home\Desktop\DoAnNET\DoAnNET\obj\Debug\DoAnNET.exe
+\\Mac\Home\Desktop\DoAnNET\DoAnNET\obj\Debug\DoAnNET.pdb
+\\Mac\Home\Desktop\DoAnNET\DoAnNET\obj\Debug\DoAnNET.csprojResolveAssemblyReference.cache
+\\Mac\Home\Desktop\DoAnNET\DoAnNET\obj\Debug\DoAnNET.frmAddTV.resources
+\\Mac\Home\Desktop\DoAnNET\DoAnNET\obj\Debug\DoAnNET.frmControl.resources
+\\Mac\Home\Desktop\DoAnNET\DoAnNET\obj\Debug\DoAnNET.frmMap.resources
+\\Mac\Home\Desktop\DoAnNET\DoAnNET\obj\Debug\DoAnNET.frmtest.resources
+\\Mac\Home\Desktop\DoAnNET\DoAnNET\obj\Debug\DoAnNET.LoginForm.resources
+\\Mac\Home\Desktop\DoAnNET\DoAnNET\obj\Debug\DoAnNET.MDIForm.resources
+\\Mac\Home\Desktop\DoAnNET\DoAnNET\obj\Debug\DoAnNET.Properties.Resources.resources
+\\Mac\Home\Desktop\DoAnNET\DoAnNET\obj\Debug\DoAnNET.csproj.GenerateResource.Cache
+\\Mac\Home\Desktop\DoAnNET\DoAnNET\bin\Debug\DoAnNET.exe
+\\Mac\Home\Desktop\DoAnNET\DoAnNET\bin\Debug\DoAnNET.pdb
+\\Mac\Home\Desktop\DoAnNET\DoAnNET\bin\Debug\AjaxMin.dll
+\\Mac\Home\Desktop\DoAnNET\DoAnNET\bin\Debug\GMap.NET.Core.dll
+\\Mac\Home\Desktop\DoAnNET\DoAnNET\bin\Debug\Gmap.net.dll
+\\Mac\Home\Desktop\DoAnNET\DoAnNET\bin\Debug\GMap.NET.WindowsForms.dll
+\\Mac\Home\Desktop\DoAnNET\DoAnNET\bin\Debug\Gmap.net.pdb
+\\Mac\Home\Desktop\DoAnNET\DoAnNET\obj\Debug\DoAnNET.frmReport.resources
+\\Mac\Home\Desktop\DoAnNET_final\DoAnNET\bin\Debug\DoAnNET.exe.config
+\\Mac\Home\Desktop\DoAnNET_final\DoAnNET\obj\Debug\DoAnNET.exe
+\\Mac\Home\Desktop\DoAnNET_final\DoAnNET\obj\Debug\DoAnNET.pdb
+\\Mac\Home\Desktop\DoAnNET_final\DoAnNET\bin\Debug\DoAnNET.exe
+\\Mac\Home\Desktop\DoAnNET_final\DoAnNET\bin\Debug\DoAnNET.pdb
+\\Mac\Home\Desktop\DoAnNET_final\DoAnNET\bin\Debug\AjaxMin.dll
+\\Mac\Home\Desktop\DoAnNET_final\DoAnNET\bin\Debug\GMap.NET.Core.dll
+\\Mac\Home\Desktop\DoAnNET_final\DoAnNET\bin\Debug\Gmap.net.dll
+\\Mac\Home\Desktop\DoAnNET_final\DoAnNET\bin\Debug\GMap.NET.WindowsForms.dll
+\\Mac\Home\Desktop\DoAnNET_final\DoAnNET\bin\Debug\Gmap.net.pdb
+\\Mac\Home\Desktop\DoAnNET_final\DoAnNET\obj\Debug\DoAnNET.csprojResolveAssemblyReference.cache
+\\Mac\Home\Desktop\DoAnNET_final\DoAnNET\obj\Debug\DoAnNET.frmAddTV.resources
+\\Mac\Home\Desktop\DoAnNET_final\DoAnNET\obj\Debug\DoAnNET.frmControl.resources
+\\Mac\Home\Desktop\DoAnNET_final\DoAnNET\obj\Debug\DoAnNET.frmMap.resources
+\\Mac\Home\Desktop\DoAnNET_final\DoAnNET\obj\Debug\DoAnNET.frmReport.resources
+\\Mac\Home\Desktop\DoAnNET_final\DoAnNET\obj\Debug\DoAnNET.frmtest.resources
+\\Mac\Home\Desktop\DoAnNET_final\DoAnNET\obj\Debug\DoAnNET.LoginForm.resources
+\\Mac\Home\Desktop\DoAnNET_final\DoAnNET\obj\Debug\DoAnNET.MDIForm.resources
+\\Mac\Home\Desktop\DoAnNET_final\DoAnNET\obj\Debug\DoAnNET.Properties.Resources.resources
+\\Mac\Home\Desktop\DoAnNET_final\DoAnNET\obj\Debug\DoAnNET.csproj.GenerateResource.Cache
+E:\HK1_Nam_3\Công Nghệ NET\DoAn_AHieu\DoAnNET_final\DoAnNET\bin\Debug\DoAnNET.exe.config
+E:\HK1_Nam_3\Công Nghệ NET\DoAn_AHieu\DoAnNET_final\DoAnNET\bin\Debug\DoAnNET.exe
+E:\HK1_Nam_3\Công Nghệ NET\DoAn_AHieu\DoAnNET_final\DoAnNET\bin\Debug\DoAnNET.pdb
+E:\HK1_Nam_3\Công Nghệ NET\DoAn_AHieu\DoAnNET_final\DoAnNET\bin\Debug\AjaxMin.dll
+E:\HK1_Nam_3\Công Nghệ NET\DoAn_AHieu\DoAnNET_final\DoAnNET\bin\Debug\AxShockwaveFlashObjects.dll
+E:\HK1_Nam_3\Công Nghệ NET\DoAn_AHieu\DoAnNET_final\DoAnNET\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+E:\HK1_Nam_3\Công Nghệ NET\DoAn_AHieu\DoAnNET_final\DoAnNET\bin\Debug\CrystalDecisions.ReportSource.dll
+E:\HK1_Nam_3\Công Nghệ NET\DoAn_AHieu\DoAnNET_final\DoAnNET\bin\Debug\CrystalDecisions.Shared.dll
+E:\HK1_Nam_3\Công Nghệ NET\DoAn_AHieu\DoAnNET_final\DoAnNET\bin\Debug\CrystalDecisions.Windows.Forms.dll
+E:\HK1_Nam_3\Công Nghệ NET\DoAn_AHieu\DoAnNET_final\DoAnNET\bin\Debug\GMap.NET.Core.dll
+E:\HK1_Nam_3\Công Nghệ NET\DoAn_AHieu\DoAnNET_final\DoAnNET\bin\Debug\Gmap.net.dll
+E:\HK1_Nam_3\Công Nghệ NET\DoAn_AHieu\DoAnNET_final\DoAnNET\bin\Debug\GMap.NET.WindowsForms.dll
+E:\HK1_Nam_3\Công Nghệ NET\DoAn_AHieu\DoAnNET_final\DoAnNET\bin\Debug\ShockwaveFlashObjects.dll
+E:\HK1_Nam_3\Công Nghệ NET\DoAn_AHieu\DoAnNET_final\DoAnNET\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+E:\HK1_Nam_3\Công Nghệ NET\DoAn_AHieu\DoAnNET_final\DoAnNET\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+E:\HK1_Nam_3\Công Nghệ NET\DoAn_AHieu\DoAnNET_final\DoAnNET\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+E:\HK1_Nam_3\Công Nghệ NET\DoAn_AHieu\DoAnNET_final\DoAnNET\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+E:\HK1_Nam_3\Công Nghệ NET\DoAn_AHieu\DoAnNET_final\DoAnNET\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+E:\HK1_Nam_3\Công Nghệ NET\DoAn_AHieu\DoAnNET_final\DoAnNET\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+E:\HK1_Nam_3\Công Nghệ NET\DoAn_AHieu\DoAnNET_final\DoAnNET\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+E:\HK1_Nam_3\Công Nghệ NET\DoAn_AHieu\DoAnNET_final\DoAnNET\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+E:\HK1_Nam_3\Công Nghệ NET\DoAn_AHieu\DoAnNET_final\DoAnNET\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+E:\HK1_Nam_3\Công Nghệ NET\DoAn_AHieu\DoAnNET_final\DoAnNET\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+E:\HK1_Nam_3\Công Nghệ NET\DoAn_AHieu\DoAnNET_final\DoAnNET\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+E:\HK1_Nam_3\Công Nghệ NET\DoAn_AHieu\DoAnNET_final\DoAnNET\bin\Debug\stdole.dll
+E:\HK1_Nam_3\Công Nghệ NET\DoAn_AHieu\DoAnNET_final\DoAnNET\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+E:\HK1_Nam_3\Công Nghệ NET\DoAn_AHieu\DoAnNET_final\DoAnNET\bin\Debug\Gmap.net.pdb
+E:\HK1_Nam_3\Công Nghệ NET\DoAn_AHieu\DoAnNET_final\DoAnNET\obj\Debug\DoAnNET.csproj.AssemblyReference.cache
+E:\HK1_Nam_3\Công Nghệ NET\DoAn_AHieu\DoAnNET_final\DoAnNET\obj\Debug\DoAnNET.frmAddTV.resources
+E:\HK1_Nam_3\Công Nghệ NET\DoAn_AHieu\DoAnNET_final\DoAnNET\obj\Debug\DoAnNET.frmControl.resources
+E:\HK1_Nam_3\Công Nghệ NET\DoAn_AHieu\DoAnNET_final\DoAnNET\obj\Debug\DoAnNET.frmMap.resources
+E:\HK1_Nam_3\Công Nghệ NET\DoAn_AHieu\DoAnNET_final\DoAnNET\obj\Debug\DoAnNET.frmReport.resources
+E:\HK1_Nam_3\Công Nghệ NET\DoAn_AHieu\DoAnNET_final\DoAnNET\obj\Debug\DoAnNET.frmtest.resources
+E:\HK1_Nam_3\Công Nghệ NET\DoAn_AHieu\DoAnNET_final\DoAnNET\obj\Debug\DoAnNET.LoginForm.resources
+E:\HK1_Nam_3\Công Nghệ NET\DoAn_AHieu\DoAnNET_final\DoAnNET\obj\Debug\DoAnNET.MDIForm.resources
+E:\HK1_Nam_3\Công Nghệ NET\DoAn_AHieu\DoAnNET_final\DoAnNET\obj\Debug\DoAnNET.Properties.Resources.resources
+E:\HK1_Nam_3\Công Nghệ NET\DoAn_AHieu\DoAnNET_final\DoAnNET\obj\Debug\DoAnNET.csproj.GenerateResource.cache
+E:\HK1_Nam_3\Công Nghệ NET\DoAn_AHieu\DoAnNET_final\DoAnNET\obj\Debug\DoAnNET.csproj.CoreCompileInputs.cache
+E:\HK1_Nam_3\Công Nghệ NET\DoAn_AHieu\DoAnNET_final\DoAnNET\obj\Debug\DoAnNET.exe
+E:\HK1_Nam_3\Công Nghệ NET\DoAn_AHieu\DoAnNET_final\DoAnNET\obj\Debug\DoAnNET.pdb
+\\Mac\Home\Documents\Win10\DoAnNET_final\DoAnNET\bin\Debug\DoAnNET.exe.config
+\\Mac\Home\Documents\Win10\DoAnNET_final\DoAnNET\bin\Debug\DoAnNET.exe
+\\Mac\Home\Documents\Win10\DoAnNET_final\DoAnNET\bin\Debug\DoAnNET.pdb
+\\Mac\Home\Documents\Win10\DoAnNET_final\DoAnNET\bin\Debug\AjaxMin.dll
+\\Mac\Home\Documents\Win10\DoAnNET_final\DoAnNET\bin\Debug\GMap.NET.Core.dll
+\\Mac\Home\Documents\Win10\DoAnNET_final\DoAnNET\bin\Debug\Gmap.net.dll
+\\Mac\Home\Documents\Win10\DoAnNET_final\DoAnNET\bin\Debug\GMap.NET.WindowsForms.dll
+\\Mac\Home\Documents\Win10\DoAnNET_final\DoAnNET\bin\Debug\ShockwaveFlashObjects.dll
+\\Mac\Home\Documents\Win10\DoAnNET_final\DoAnNET\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+\\Mac\Home\Documents\Win10\DoAnNET_final\DoAnNET\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+\\Mac\Home\Documents\Win10\DoAnNET_final\DoAnNET\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+\\Mac\Home\Documents\Win10\DoAnNET_final\DoAnNET\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+\\Mac\Home\Documents\Win10\DoAnNET_final\DoAnNET\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+\\Mac\Home\Documents\Win10\DoAnNET_final\DoAnNET\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+\\Mac\Home\Documents\Win10\DoAnNET_final\DoAnNET\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+\\Mac\Home\Documents\Win10\DoAnNET_final\DoAnNET\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+\\Mac\Home\Documents\Win10\DoAnNET_final\DoAnNET\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+\\Mac\Home\Documents\Win10\DoAnNET_final\DoAnNET\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+\\Mac\Home\Documents\Win10\DoAnNET_final\DoAnNET\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+\\Mac\Home\Documents\Win10\DoAnNET_final\DoAnNET\bin\Debug\stdole.dll
+\\Mac\Home\Documents\Win10\DoAnNET_final\DoAnNET\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+\\Mac\Home\Documents\Win10\DoAnNET_final\DoAnNET\bin\Debug\Gmap.net.pdb
+\\Mac\Home\Documents\Win10\DoAnNET_final\DoAnNET\obj\Debug\DoAnNET.csproj.AssemblyReference.cache
+\\Mac\Home\Documents\Win10\DoAnNET_final\DoAnNET\obj\Debug\DoAnNET.frmControl.resources
+\\Mac\Home\Documents\Win10\DoAnNET_final\DoAnNET\obj\Debug\DoAnNET.frmReport.resources
+\\Mac\Home\Documents\Win10\DoAnNET_final\DoAnNET\obj\Debug\DoAnNET.LoginForm.resources
+\\Mac\Home\Documents\Win10\DoAnNET_final\DoAnNET\obj\Debug\DoAnNET.Properties.Resources.resources
+\\Mac\Home\Documents\Win10\DoAnNET_final\DoAnNET\obj\Debug\DoAnNET.csproj.GenerateResource.cache
+\\Mac\Home\Documents\Win10\DoAnNET_final\DoAnNET\obj\Debug\DoAnNET.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\Win10\DoAnNET_final\DoAnNET\obj\Debug\DoAnNET.csproj.CopyComplete
+\\Mac\Home\Documents\Win10\DoAnNET_final\DoAnNET\obj\Debug\DoAnNET.exe
+\\Mac\Home\Documents\Win10\DoAnNET_final\DoAnNET\obj\Debug\DoAnNET.pdb
+\\Mac\Home\Documents\Win10\DoAnNET_final\DoAnNET\obj\Debug\DoAnNET.frmSeller.resources
+\\Mac\Home\Documents\Win10\DoAnNET_final\DoAnNET\obj\Debug\DoAnNET.frmManager.resources
+\\Mac\Home\Documents\Win10\DoAnNET_final\DoAnNET\bin\Debug\AxShockwaveFlashObjects.dll
+\\Mac\Home\Documents\Win10\DoAnNET_final\DoAnNET\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+\\Mac\Home\Documents\Win10\DoAnNET_final\DoAnNET\bin\Debug\CrystalDecisions.ReportSource.dll
+\\Mac\Home\Documents\Win10\DoAnNET_final\DoAnNET\bin\Debug\CrystalDecisions.Shared.dll
+\\Mac\Home\Documents\Win10\DoAnNET_final\DoAnNET\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\Le Huynh Nam\Desktop\QUAN_LY_TAU_THUYEN\DoAnNET_final (1)\DoAnNET_final\DoAnNET\bin\Debug\DoAnNET.exe.config
+C:\Users\Le Huynh Nam\Desktop\QUAN_LY_TAU_THUYEN\DoAnNET_final (1)\DoAnNET_final\DoAnNET\obj\Debug\DoAnNET.exe
+C:\Users\Le Huynh Nam\Desktop\QUAN_LY_TAU_THUYEN\DoAnNET_final (1)\DoAnNET_final\DoAnNET\obj\Debug\DoAnNET.pdb
+C:\Users\Le Huynh Nam\Desktop\QUAN_LY_TAU_THUYEN\DoAnNET_final (1)\DoAnNET_final\DoAnNET\bin\Debug\DoAnNET.exe
+C:\Users\Le Huynh Nam\Desktop\QUAN_LY_TAU_THUYEN\DoAnNET_final (1)\DoAnNET_final\DoAnNET\bin\Debug\DoAnNET.pdb
+C:\Users\Le Huynh Nam\Desktop\QUAN_LY_TAU_THUYEN\DoAnNET_final (1)\DoAnNET_final\DoAnNET\bin\Debug\AjaxMin.dll
+C:\Users\Le Huynh Nam\Desktop\QUAN_LY_TAU_THUYEN\DoAnNET_final (1)\DoAnNET_final\DoAnNET\bin\Debug\GMap.NET.Core.dll
+C:\Users\Le Huynh Nam\Desktop\QUAN_LY_TAU_THUYEN\DoAnNET_final (1)\DoAnNET_final\DoAnNET\bin\Debug\Gmap.net.dll
+C:\Users\Le Huynh Nam\Desktop\QUAN_LY_TAU_THUYEN\DoAnNET_final (1)\DoAnNET_final\DoAnNET\bin\Debug\GMap.NET.WindowsForms.dll
+C:\Users\Le Huynh Nam\Desktop\QUAN_LY_TAU_THUYEN\DoAnNET_final (1)\DoAnNET_final\DoAnNET\bin\Debug\Gmap.net.pdb
+C:\Users\Le Huynh Nam\Desktop\QUAN_LY_TAU_THUYEN\DoAnNET_final (1)\DoAnNET_final\DoAnNET\obj\Debug\DoAnNET.csprojResolveAssemblyReference.cache
+C:\Users\Le Huynh Nam\Desktop\QUAN_LY_TAU_THUYEN\DoAnNET_final (1)\DoAnNET_final\DoAnNET\obj\Debug\DoAnNET.frmControl.resources
+C:\Users\Le Huynh Nam\Desktop\QUAN_LY_TAU_THUYEN\DoAnNET_final (1)\DoAnNET_final\DoAnNET\obj\Debug\DoAnNET.frmSeller.resources
+C:\Users\Le Huynh Nam\Desktop\QUAN_LY_TAU_THUYEN\DoAnNET_final (1)\DoAnNET_final\DoAnNET\obj\Debug\DoAnNET.frmReport.resources
+C:\Users\Le Huynh Nam\Desktop\QUAN_LY_TAU_THUYEN\DoAnNET_final (1)\DoAnNET_final\DoAnNET\obj\Debug\DoAnNET.frmManager.resources
+C:\Users\Le Huynh Nam\Desktop\QUAN_LY_TAU_THUYEN\DoAnNET_final (1)\DoAnNET_final\DoAnNET\obj\Debug\DoAnNET.LoginForm.resources
+C:\Users\Le Huynh Nam\Desktop\QUAN_LY_TAU_THUYEN\DoAnNET_final (1)\DoAnNET_final\DoAnNET\obj\Debug\DoAnNET.Properties.Resources.resources
+C:\Users\Le Huynh Nam\Desktop\QUAN_LY_TAU_THUYEN\DoAnNET_final (1)\DoAnNET_final\DoAnNET\obj\Debug\DoAnNET.csproj.GenerateResource.Cache
+E:\Cong nghe net\QUAN_LY_TAU_THUYEN\DoAnNET_final (1)\DoAnNET_final\DoAnNET\bin\Debug\DoAnNET.exe.config
+E:\Cong nghe net\QUAN_LY_TAU_THUYEN\DoAnNET_final (1)\DoAnNET_final\DoAnNET\obj\Debug\DoAnNET.exe
+E:\Cong nghe net\QUAN_LY_TAU_THUYEN\DoAnNET_final (1)\DoAnNET_final\DoAnNET\obj\Debug\DoAnNET.pdb
+E:\Cong nghe net\QUAN_LY_TAU_THUYEN\DoAnNET_final (1)\DoAnNET_final\DoAnNET\bin\Debug\DoAnNET.exe
+E:\Cong nghe net\QUAN_LY_TAU_THUYEN\DoAnNET_final (1)\DoAnNET_final\DoAnNET\bin\Debug\DoAnNET.pdb
+E:\Cong nghe net\QUAN_LY_TAU_THUYEN\DoAnNET_final (1)\DoAnNET_final\DoAnNET\bin\Debug\AjaxMin.dll
+E:\Cong nghe net\QUAN_LY_TAU_THUYEN\DoAnNET_final (1)\DoAnNET_final\DoAnNET\bin\Debug\GMap.NET.Core.dll
+E:\Cong nghe net\QUAN_LY_TAU_THUYEN\DoAnNET_final (1)\DoAnNET_final\DoAnNET\bin\Debug\Gmap.net.dll
+E:\Cong nghe net\QUAN_LY_TAU_THUYEN\DoAnNET_final (1)\DoAnNET_final\DoAnNET\bin\Debug\GMap.NET.WindowsForms.dll
+E:\Cong nghe net\QUAN_LY_TAU_THUYEN\DoAnNET_final (1)\DoAnNET_final\DoAnNET\bin\Debug\Gmap.net.pdb
+E:\Cong nghe net\QUAN_LY_TAU_THUYEN\DoAnNET_final (1)\DoAnNET_final\DoAnNET\obj\Debug\DoAnNET.csprojResolveAssemblyReference.cache
+E:\Cong nghe net\QUAN_LY_TAU_THUYEN\DoAnNET_final (1)\DoAnNET_final\DoAnNET\obj\Debug\DoAnNET.frmControl.resources
+E:\Cong nghe net\QUAN_LY_TAU_THUYEN\DoAnNET_final (1)\DoAnNET_final\DoAnNET\obj\Debug\DoAnNET.frmSeller.resources
+E:\Cong nghe net\QUAN_LY_TAU_THUYEN\DoAnNET_final (1)\DoAnNET_final\DoAnNET\obj\Debug\DoAnNET.frmReport.resources
+E:\Cong nghe net\QUAN_LY_TAU_THUYEN\DoAnNET_final (1)\DoAnNET_final\DoAnNET\obj\Debug\DoAnNET.frmManager.resources
+E:\Cong nghe net\QUAN_LY_TAU_THUYEN\DoAnNET_final (1)\DoAnNET_final\DoAnNET\obj\Debug\DoAnNET.LoginForm.resources
+E:\Cong nghe net\QUAN_LY_TAU_THUYEN\DoAnNET_final (1)\DoAnNET_final\DoAnNET\obj\Debug\DoAnNET.Properties.Resources.resources
+E:\Cong nghe net\QUAN_LY_TAU_THUYEN\DoAnNET_final (1)\DoAnNET_final\DoAnNET\obj\Debug\DoAnNET.csproj.GenerateResource.Cache

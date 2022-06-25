@@ -1,0 +1,10 @@
+E:\DA_PTH\C#MobileStore\mobilestore\DAL\bin\Debug\DAL.dll
+E:\DA_PTH\C#MobileStore\mobilestore\DAL\bin\Debug\DAL.pdb
+E:\DA_PTH\C#MobileStore\mobilestore\DAL\bin\Debug\DTO.dll
+E:\DA_PTH\C#MobileStore\mobilestore\DAL\bin\Debug\DTO.pdb
+E:\DA_PTH\C#MobileStore\mobilestore\DAL\bin\Debug\DTO.dll.config
+E:\DA_PTH\C#MobileStore\mobilestore\DAL\obj\Debug\DAL.csproj.CoreCompileInputs.cache
+E:\DA_PTH\C#MobileStore\mobilestore\DAL\obj\Debug\DAL.csproj.CopyComplete
+E:\DA_PTH\C#MobileStore\mobilestore\DAL\obj\Debug\DAL.dll
+E:\DA_PTH\C#MobileStore\mobilestore\DAL\obj\Debug\DAL.pdb
+E:\DA_PTH\C#MobileStore\mobilestore\DAL\obj\Debug\DAL.csproj.AssemblyReference.cache

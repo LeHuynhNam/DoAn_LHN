@@ -1,0 +1,6 @@
+E:\DA_PTH\C#MobileStore\mobilestore\DTO\bin\Debug\DTO.dll.config
+E:\DA_PTH\C#MobileStore\mobilestore\DTO\bin\Debug\DTO.dll
+E:\DA_PTH\C#MobileStore\mobilestore\DTO\bin\Debug\DTO.pdb
+E:\DA_PTH\C#MobileStore\mobilestore\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+E:\DA_PTH\C#MobileStore\mobilestore\DTO\obj\Debug\DTO.dll
+E:\DA_PTH\C#MobileStore\mobilestore\DTO\obj\Debug\DTO.pdb

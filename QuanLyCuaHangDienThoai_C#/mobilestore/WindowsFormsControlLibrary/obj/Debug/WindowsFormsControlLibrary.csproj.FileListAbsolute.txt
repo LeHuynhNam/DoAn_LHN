@@ -1,0 +1,8 @@
+E:\DA_PTH\C#MobileStore\mobilestore\WindowsFormsControlLibrary\bin\Debug\WindowsFormsControlLibrary.dll
+E:\DA_PTH\C#MobileStore\mobilestore\WindowsFormsControlLibrary\bin\Debug\WindowsFormsControlLibrary.pdb
+E:\DA_PTH\C#MobileStore\mobilestore\WindowsFormsControlLibrary\obj\Debug\WindowsFormsControlLibrary.NumericTextBox.resources
+E:\DA_PTH\C#MobileStore\mobilestore\WindowsFormsControlLibrary\obj\Debug\WindowsFormsControlLibrary.csproj.GenerateResource.cache
+E:\DA_PTH\C#MobileStore\mobilestore\WindowsFormsControlLibrary\obj\Debug\WindowsFormsControlLibrary.csproj.CoreCompileInputs.cache
+E:\DA_PTH\C#MobileStore\mobilestore\WindowsFormsControlLibrary\obj\Debug\WindowsFormsControlLibrary.dll
+E:\DA_PTH\C#MobileStore\mobilestore\WindowsFormsControlLibrary\obj\Debug\WindowsFormsControlLibrary.pdb
+E:\DA_PTH\C#MobileStore\mobilestore\WindowsFormsControlLibrary\obj\Debug\WindowsFormsControlLibrary.KhongChuaKyTuDacBiet.resources
